@@ -1,0 +1,10 @@
+/Users/danielbennett/workspace/csharp/exercises/FlowerShop/bin/Debug/netcoreapp3.1/FlowerShop.deps.json
+/Users/danielbennett/workspace/csharp/exercises/FlowerShop/bin/Debug/netcoreapp3.1/FlowerShop.runtimeconfig.json
+/Users/danielbennett/workspace/csharp/exercises/FlowerShop/bin/Debug/netcoreapp3.1/FlowerShop.runtimeconfig.dev.json
+/Users/danielbennett/workspace/csharp/exercises/FlowerShop/bin/Debug/netcoreapp3.1/FlowerShop.dll
+/Users/danielbennett/workspace/csharp/exercises/FlowerShop/bin/Debug/netcoreapp3.1/FlowerShop.pdb
+/Users/danielbennett/workspace/csharp/exercises/FlowerShop/obj/Debug/netcoreapp3.1/FlowerShop.csprojAssemblyReference.cache
+/Users/danielbennett/workspace/csharp/exercises/FlowerShop/obj/Debug/netcoreapp3.1/FlowerShop.AssemblyInfoInputs.cache
+/Users/danielbennett/workspace/csharp/exercises/FlowerShop/obj/Debug/netcoreapp3.1/FlowerShop.AssemblyInfo.cs
+/Users/danielbennett/workspace/csharp/exercises/FlowerShop/obj/Debug/netcoreapp3.1/FlowerShop.dll
+/Users/danielbennett/workspace/csharp/exercises/FlowerShop/obj/Debug/netcoreapp3.1/FlowerShop.pdb
